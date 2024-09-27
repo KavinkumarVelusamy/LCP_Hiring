@@ -1,0 +1,126 @@
+{
+    "urls": {
+      "baseUrl": "https://demo.lcp.neartekpod.io/"
+    },
+    "Resume": {
+      "Resume": "c:/Users/Kavin/OneDrive/Desktop/Resume/John.pdf"
+    },
+    "credentials": {
+      "username": "kavinkumar.velusamy@neartekpod.com",
+      "password": "Pass4word$$"
+    },
+    "addnewjd": {
+      "jobtitle": "Full Stack Developer",
+      "skills": [
+        "JavaScript (ES6+)",
+        "React.js",
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "HTML5 & CSS3",
+        "RESTful APIs",
+        "Version Control (Git)",
+        "Agile Methodologies",
+        "CI/CD Pipelines"
+      ],
+      "responsibilities": [
+        "Develop and maintain web applications using React.js and Node.js.",
+        "Design and implement RESTful APIs for web and mobile applications.",
+        "Collaborate with cross-functional teams to gather requirements and deliver scalable solutions.",
+        "Create and maintain database schemas using MongoDB and SQL-based databases.",
+        "Monitor application performance and troubleshoot any issues that arise.",
+        "Work closely with the DevOps team to integrate solutions within CI/CD pipelines.",
+        "Document software development processes, workflows, and technical specifications.",
+        "Continuously improve code quality, performance, and scalability by incorporating industry best practices.",
+        "Mentor junior developers on Full Stack technologies and best practices.",
+        "Ensure all web applications meet security, performance, and compliance standards."
+      ],
+      "requirements": [
+        "Bachelor's degree in Computer Science, Information Technology, or a related field.",
+        "3+ years of experience in Full Stack web development.",
+        "Proficiency in JavaScript, React.js, Node.js, and Express.js.",
+        "Experience with RESTful API design and development.",
+        "Strong understanding of MongoDB and SQL-based databases.",
+        "Familiarity with version control systems like Git.",
+        "Knowledge of CI/CD pipelines and Agile methodologies.",
+        "Excellent problem-solving and communication skills.",
+        "Ability to work independently and as part of a team."
+      ]
+    },
+    "editjd": {
+      "jobtitle": "Full Stack Developer lead",
+      "skills": [
+        "JavaScript (ES6+)",
+        "React.js",
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "HTML5 & CSS3",
+        "RESTful APIs",
+        "Version Control (Git)",
+        "Agile Methodologies",
+        "CI/CD Pipelines"
+      ],
+      "responsibilities": [
+        "Develop and maintain web applications using React.js and Node.js.",
+        "Design and implement RESTful APIs for web and mobile applications.",
+        "Collaborate with cross-functional teams to gather requirements and deliver scalable solutions.",
+        "Create and maintain database schemas using MongoDB and SQL-based databases.",
+        "Monitor application performance and troubleshoot any issues that arise.",
+        "Work closely with the DevOps team to integrate solutions within CI/CD pipelines.",
+        "Document software development processes, workflows, and technical specifications.",
+        "Continuously improve code quality, performance, and scalability by incorporating industry best practices.",
+        "Mentor junior developers on Full Stack technologies and best practices.",
+        "Ensure all web applications meet security, performance, and compliance standards."
+      ],
+      "requirements": [
+        "Bachelor's degree in Computer Science, Information Technology, or a related field.",
+        "8+ years of experience in Full Stack web development.",
+        "Proficiency in JavaScript, React.js, Node.js, and Express.js.",
+        "Experience with RESTful API design and development.",
+        "Strong understanding of MongoDB and SQL-based databases.",
+        "Familiarity with version control systems like Git.",
+        "Knowledge of CI/CD pipelines and Agile methodologies.",
+        "Excellent problem-solving and communication skills.",
+        "Ability to work independently and as part of a team."
+      ]
+    },
+    "copyjd": {
+      "jobtitle": "Designer",
+      "skills": [
+        "Graphic Design",
+        "UI/UX Design",
+        "Adobe Creative Suite (Photoshop, Illustrator, XD)",
+        "Sketch & Figma",
+        "HTML & CSS",
+        "Prototyping & Wireframing",
+        "Responsive Design",
+        "User Research & Testing",
+        "Agile Methodologies",
+        "Design Systems"
+      ],
+      "responsibilities": [
+        "Design and create high-quality visual content for web and mobile platforms.",
+        "Collaborate with product and engineering teams to develop intuitive UI/UX designs.",
+        "Create wireframes, mockups, and prototypes to communicate design ideas.",
+        "Implement design changes in collaboration with developers, ensuring the design vision is realized.",
+        "Conduct user research and testing to inform design decisions and improve usability.",
+        "Continuously improve designs based on user feedback and analytics.",
+        "Work closely with the product team to ensure designs align with business goals and technical constraints.",
+        "Maintain and evolve the company’s design systems, ensuring consistency across all products.",
+        "Stay up-to-date with design trends and industry best practices.",
+        "Mentor junior designers on design techniques and tools."
+      ],
+      "requirements": [
+        "Bachelor's degree in Graphic Design, Web Design, or a related field.",
+        "3+ years of experience in graphic and UI/UX design.",
+        "Proficiency in design tools like Adobe Creative Suite, Sketch, and Figma.",
+        "Strong understanding of HTML and CSS.",
+        "Experience with user research and usability testing.",
+        "Excellent communication and collaboration skills.",
+        "Ability to work independently and as part of a team.",
+        "Attention to detail and a passion for delivering high-quality designs."
+      ]
+    }
+  }
+  
