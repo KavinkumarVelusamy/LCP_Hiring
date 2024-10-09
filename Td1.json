@@ -1,6 +1,6 @@
 {
     "urls": {
-      "baseUrl": "https://demo.lcp.neartekpod.io/"
+      "baseUrl": "https://dev1.lcp.neartekpod.io/"
     },
     "Resume": {
       "Resume": "c:/Users/Kavin/OneDrive/Desktop/Resume/John.pdf"
@@ -9,7 +9,7 @@
       "username": "kavinkumar.velusamy@neartekpod.com",
       "password": "Pass4word$$"
     },
-    "addnewjd": {
+    "editjd": {
       "jobtitle": "Full Stack Developer",
       "skills": [
         "JavaScript (ES6+)",
@@ -47,43 +47,44 @@
         "Ability to work independently and as part of a team."
       ]
     },
-    "editjd": {
-      "jobtitle": "Full Stack Developer lead",
-      "skills": [
-        "JavaScript (ES6+)",
-        "React.js",
-        "Node.js",
-        "Express.js",
-        "MongoDB",
-        "HTML5 & CSS3",
-        "RESTful APIs",
-        "Version Control (Git)",
-        "Agile Methodologies",
-        "CI/CD Pipelines"
-      ],
-      "responsibilities": [
-        "Develop and maintain web applications using React.js and Node.js.",
-        "Design and implement RESTful APIs for web and mobile applications.",
-        "Collaborate with cross-functional teams to gather requirements and deliver scalable solutions.",
-        "Create and maintain database schemas using MongoDB and SQL-based databases.",
-        "Monitor application performance and troubleshoot any issues that arise.",
-        "Work closely with the DevOps team to integrate solutions within CI/CD pipelines.",
-        "Document software development processes, workflows, and technical specifications.",
-        "Continuously improve code quality, performance, and scalability by incorporating industry best practices.",
-        "Mentor junior developers on Full Stack technologies and best practices.",
-        "Ensure all web applications meet security, performance, and compliance standards."
-      ],
-      "requirements": [
-        "Bachelor's degree in Computer Science, Information Technology, or a related field.",
-        "8+ years of experience in Full Stack web development.",
-        "Proficiency in JavaScript, React.js, Node.js, and Express.js.",
-        "Experience with RESTful API design and development.",
-        "Strong understanding of MongoDB and SQL-based databases.",
-        "Familiarity with version control systems like Git.",
-        "Knowledge of CI/CD pipelines and Agile methodologies.",
-        "Excellent problem-solving and communication skills.",
-        "Ability to work independently and as part of a team."
-      ]
+    "addnewjd": {
+     "jobtitle": "DevOps Engineer",
+    "skills": [
+      "Linux/Unix Administration",
+      "CI/CD Pipelines",
+      "AWS, Azure, or GCP",
+      "Docker & Kubernetes",
+      "Ansible, Chef, or Puppet",
+      "Git & Version Control",
+      "Monitoring Tools (Prometheus, Grafana)",
+      "Scripting (Python, Bash, PowerShell)",
+      "Agile Methodologies",
+      "Networking Concepts"
+    ],
+    "responsibilities": [
+      "Design and implement CI/CD pipelines to automate development and deployment processes.",
+      "Manage and monitor cloud infrastructure on AWS, Azure, or GCP.",
+      "Ensure high availability and scalability of applications using container orchestration tools like Kubernetes.",
+      "Collaborate with development teams to troubleshoot, optimize, and enhance performance.",
+      "Automate infrastructure provisioning and configuration using tools like Ansible, Terraform, or Chef.",
+      "Monitor application performance and infrastructure health using monitoring tools.",
+      "Establish and maintain security protocols for infrastructure and applications.",
+      "Work closely with cross-functional teams to enhance operational efficiency.",
+      "Document infrastructure setup, processes, and best practices.",
+      "Continuously improve system performance, reliability, and scalability."
+    ],
+    "requirements": [
+      "Bachelor's degree in Computer Science, Engineering, or a related field.",
+      "8+ years of experience in DevOps or System Administration.",
+      "Proficiency with CI/CD tools and pipelines (Jenkins, GitLab CI, etc.).",
+      "Experience with cloud platforms (AWS, Azure, or GCP).",
+      "Strong knowledge of containerization tools like Docker and Kubernetes.",
+      "Familiarity with infrastructure-as-code (Terraform, CloudFormation).",
+      "Scripting experience with Python, Bash, or PowerShell.",
+      "Experience with monitoring tools like Prometheus, Grafana, or similar.",
+      "Excellent problem-solving and communication skills.",
+      "Ability to work independently and as part of a team."
+    ]
     },
     "copyjd": {
       "jobtitle": "Designer",
@@ -121,6 +122,85 @@
         "Ability to work independently and as part of a team.",
         "Attention to detail and a passion for delivering high-quality designs."
       ]
-    }
+    },
+    "candidate":{
+      "CurrentLocation":"Trichy",
+      "CurrentNoticePeriod":"3 months",
+      "CurrentCTC":"3Lpa",
+      "ExpectedCTC":"4Lpa",
+      "ReasonforChange":"build new skills",
+      "candidateName":"Robin"
+    },
+    "Editcandidate":{
+      "CandidateName":"Abi M",
+      "CandidateEmail":"Abinaya@gmail.com",
+      "CandidateMobNum":"9688634074",
+      "CurrentLocation":"Chennai",
+      "CurrentNoticePeriod":"2 months",
+      "CurrentCTC":"5Lpa",
+      "ExpectedCTC":"7Lpa",
+      "ReasonforChange":"For build new skills"
+    
+    },
+    "ResumeData":{
+      
+        "personalData": {
+          "firstName": "Abinaya",
+          "middleName": "",
+          "lastName": "M",
+          "email": "Abinaya1998@gmail.com",
+          "phoneNumber": "+91 9494969642"
+        },
+        "skillsData": [
+          "LINUX",
+          "GIT",
+          "Amazon Web Service(AWS)",
+          "Ansible",
+          "Jenkins",
+          "Maven",
+          "Docker"
+        ],
+        "experienceData": {
+          "yearsOfExperience": "2.5",
+          "experienceSummary": "2.5 years of relevant work experience as a Jr. DevOps Engineer. Having experience in implementing new AWS EC2 instances and working with EBS and S3 storage. Design highly available, cost-effective systems using multiple EC2 instances, Auto Scaling, Elastic Load Balance, and AMIs. Design roles and groups for users and resources using AWS Identity Access Management (IAM). Experience in configuring secure VPC through private and public networks in AWS. Provide highly durable and available data by using S3 data store, Versioning, Life Cycle Policies, and create AMIs for mission-critical production servers for backup. Utilize Amazon Glacier for archiving data. Manage network security using Security Groups and IAM. Use Amazon RDS to manage, create snapshots, and automate backup of database. Administered and Implemented CI tools like Jenkins. Focus on Continuous Integration and Continuous Deployment and promote enterprise solution deployment assets to target environments. Knowledge in using Application and Environment configuration using Ansible. Extensive experience in using version control systems like GIT. Ability to work closely with teams to ensure high quality and timely delivery of builds and releases. Strong ability to troubleshoot any issues generated while building, deploying, and in production support. Ability to grasp the latest technologies and properly apply new tools to build applications. Good interpersonal skills, team-working attitude, initiative, and proactivity in solving problems and providing solutions.",
+          "employmentHistory": [
+            {
+              "organization": "Dhyanahitha Organization",
+              "location": "Hyderabad",
+              "role": "Software Associate",
+              "startDate": "2019 November",
+              "endDate": "2022 February"
+            },
+            {
+              "organization": "Promize IT Services Pvt Ltd",
+              "location": "Hyderabad",
+              "role": "Jr. DevOps Engineer",
+              "startDate": "2024 March",
+              "endDate": "Till date"
+            }
+          ]
+        },
+        "educationData": {
+          "institution": "Sabarmati University",
+          "location": "Ahmedabad, GJ, INDIA",
+          "degree": "B-Tech (CSE) - (Bachelor of Technology)",
+          "fieldOfStudy": "",
+          "startDate": "",
+          "endDate": ""
+        },
+        "achievementsData": [],
+        "certificationData": []
+      },
+      "interview":{
+        "pannel":"Elakiya Palanivel",
+        "Date":"20-10-002024T10:00AM",
+        "Decision":"Approved",
+        "Notes":"GOOD"
+      }
+    
+      
+    
+    
   }
+  
   
